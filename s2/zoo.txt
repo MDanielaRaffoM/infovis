@@ -1,0 +1,62 @@
+The goal of visualization is to aid our understanding of data by leveraging the human visual system's highly tuned ability to see patterns, spot trends, and identify outliers.
+Well-designed visual representations can
+improve comprehension, memory, and decision making
+also help engage more diverse audiences in exploration and analysis
+One must determine which questions to ask, identify the appropriate data, and select effective visual encodings to map data values to graphical features such as position, size, shape, and colo
+Time-Series Data
+Time-series data—sets of values changing over time
+Index Charts
+An index chart is an interactive line chart that shows percentage changes for a collection of time-series data based on a selected index point
+Stacked Graphs
+By stacking area charts on top of each other, we arrive at a visual summation of time-series values—a stacked graph.
+This type of graph (sometimes called a stream graph) depicts aggregate patterns and often supports drill-down into a subset of individual series
+A stacked graph does not support negative numbers and is meaningless for data that should not be summed (temperatures, for example). Moreover, stacking may make it difficult to accurately interpret trends that lie atop other curves. Interactive search and filtering is often used to compensate for this problem.
+Small Multiples
+An alternative approach is to use small multiples: showing each series in its own chart. In figure 1C we again see the number of unemployed workers, but normalized within each industry category. We can now more accurately see both overall trends and seasonal patterns in each sector.
+Horizon Graphs
+The horizon graph
+The first one is a standard area chart, with positive values colored blue and negative values colored red. The second graph "mirrors" negative values into the same region as positive values, doubling the data density of the area chart. The third chart—a horizon graph—doubles the data density yet again by dividing the graph into bands and layering them to create a nested form. The result is a chart that preserves data resolution but uses only a quarter of the space. Although the horizon graph takes some time to learn, it has been found to be more effective than the standard plot when the chart sizes get quite small.
+Statistical Distributions
+Thus, one important use of visualizations is exploratory data analysis: gaining insight into how data is distributed to inform data transformation and modeling decisions
+Stem-and-Leaf Plots
+It typically bins numbers according to the first significant digit, and then stacks the values within each bin by the second significant digit. This minimalistic representation uses the data itself to paint a frequency distribution, replacing the "information-empty" bars of a traditional histogram bar chart and allowing one to assess both the overall distribution and the contents of each bin
+Q-Q Plots
+. The Q-Q plot compares two probability distributions by graphing their quantiles against each other. If the two are similar, the plotted values will lie roughly along the central diagonal. If the two are linearly related, values will again lie along a line, though with varying slope and intercept.
+SPLOM (Scatter Plot Matrix)
+Multivariate data occurs frequently and is notoriously hard to represent, in part because of the difficulty of mentally picturing data in more than three dimensions. One technique to overcome this problem is to use small multiples of scatter plots showing a set of pairwise relations among variables, thus creating the SPLOM (scatter plot matrix). A SPLOM enables visual inspection of correlations between any pair of variables
+Additionally, interaction techniques such as brushing-and-linking—in which a selection of points on one graph highlights the same points on all the other graphs—can be used to explore patterns within the data.
+Parallel Coordinates
+. Instead of graphing every pair of variables in two dimensions, we repeatedly plot the data on parallel axes and then connect the corresponding points with lines. Each poly-line represents a single row in the database, and line crossings between dimensions often indicate inverse correlation
+Another advantage of parallel coordinates is that they are relatively compact, so many variables can be shown simultaneously
+Maps
+Many maps are based upon a cartographic projection: a mathematical function that maps the three-dimensional geometry of the Earth to a two-dimensional image.
+Flow Maps
+, a flow map can depict the movement of a quantity in space and (implicitly) in time.
+Flow lines typically encode a large amount of multivariate information: path points, direction, line thickness, and color can all be used to present dimensions of information to the viewer.
+Choropleth Maps
+A standard approach to communicating this data is to use a color encoding of the geographic area, resulting in a choropleth map.
+Graduated Symbol Maps
+An alternative to the choropleth map is the graduated symbol map, which places symbols over an underlying map. This approach avoids confounding geographic area with data values and allows for more dimensions to be visualized (e.g., symbol size, shape, and color
+Cartograms
+A cartogram distorts the shape of geographic regions so that the area directly encodes a data variable. A common example is to redraw every country in the world sizing it proportionally to population or gross domestic product.
+Hierarchies
+Node-link Diagrams
+a node-link diagram. Many different tree-layout algorithms have been designed; the Reingold-Tilford algorithm, used in figure 4A on a package hierarchy of software classes, produces a tidy result with minimal wasted space.
+An alternative visualization scheme is the dendrogram(or cluster) algorithm, which places leaf nodes of the tree at the same level
+Although the indented tree requires excessive vertical space and does not facilitate multiscale inferences, it does allow efficient interactive exploration of the tree to find a specific node. In addition, it allows rapid scanning of node labels, and multivariate data such as file size can be displayed adjacent to the hierarchy.
+Adjacency Diagrams
+The adjacency diagram is a space-filling variant of the node-link diagram; rather than drawing a link between parent and child in the hierarchy, nodes are drawn as solid areas (either arcs or bars), and their placement relative to adjacent nodes reveals their position in the hierarchy.
+Enclosure Diagrams
+The enclosure diagram is also space filling, using containment rather than adjacency to represent the hierarchy
+The example shown in figure 4F uses padding (in blue) to emphasize enclosure; an alternative saturation encoding is sometimes used. Squarified treemaps use approximately square rectangles, which offer better readability and size estimation than a naive "slice-and-dice" subdivision
+Networks
+In addition to organization, one aspect of data that we may wish to explore through visualization is relationship
+Mathematicians use the formal term graph to describe a network. A central challenge in graph visualization is computing an effective layout
+Force-directed Layouts
+A common and intuitive approach to network layout is to model the graph as a physical system: nodes are charged particles that repel each other, and links are dampened springs that pull related nodes togethe
+Arc Diagrams
+An arc diagram, shown in figure 5B, uses a one-dimensional layout of nodes, with circular arcs to represent links
+The problem of sorting the nodes in a manner that reveals underlying cluster structure is formally called seriationand has diverse applications in visualization, statistics, and even archaeology.
+Matrix Views
+. Given this representation, an obvious visualization then is: just show the matrix! Using color or saturation instead of text allows values associated with the links to be perceived more rapidly.
+
