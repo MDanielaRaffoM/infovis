@@ -1,4 +1,6 @@
-Aca va a ir todo lo de la semana. 
+Semana 1-Visualización - Especialización en ciencia de datos
+
+MakeOverMonday N.43
 
 GRAFICOS: 
 
