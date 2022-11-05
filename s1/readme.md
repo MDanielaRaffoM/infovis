@@ -1,8 +1,6 @@
-Semana 1-Visualización - Especialización en ciencia de datos
+Visualization - Week 1 - DataScience ITBA
 
 MakeOverMonday N.43
-
-GRAFICOS: 
 
 [Tableau Heatmap + Linechart](https://mdanielaraffom.github.io/infovis/s1/c1tableau.html)
 
