@@ -5,3 +5,6 @@ Make over Monday 44- [Source](https://www.opensecrets.org/members-of-congress/me
 
 
 [Visualizaciones Tableau extra](https://mdanielaraffom.github.io/infovis/s2/MakeOverMonday44-bis.html)
+
+
+[Visualizaciones Flourish](https://github.com/MDanielaRaffoM/infovis/blob/main/s2/MakeOverMonday44-Flourish.html)
