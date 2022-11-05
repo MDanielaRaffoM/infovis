@@ -11,4 +11,8 @@ Make over Monday 44- [Source](https://www.opensecrets.org/members-of-congress/me
 [Visualizations Tableau extra](https://mdanielaraffom.github.io/infovis/s2/MakeOverMonday44-bis.html)
 
 
-[Visualizations Flourish](https://mdanielaraffom.github.io/infovis/s2/MakeOverMonday44-Flourish.html)
+[Visualizations Flourish BeesWarm](https://mdanielaraffom.github.io/infovis/s2/MakeOverMonday44-Flourish.html)
+
+[Visualizations Flourish Hierarchal bars](https://mdanielaraffom.github.io/infovis/s2/MakeOverMonday44-Flourish2.html)
+
+[Visualizations Flourish Packed Circles](https://mdanielaraffom.github.io/infovis/s2/MakeOverMonday44-Flourish3.html)
