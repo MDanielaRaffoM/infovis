@@ -1,10 +1,13 @@
-Visualizacion- Semana2
+Visualization- Week2
+
 Make over Monday 44- [Source](https://www.opensecrets.org/members-of-congress/members-list)
 
-[Visualizaciones Tableau](https://mdanielaraffom.github.io/infovis/s2/MakeOverMonday44.html)
+<h1> Members of Congress 117th - ¿Who raised more? ¿Who spent more?
+
+[Visualizations Tableau](https://mdanielaraffom.github.io/infovis/s2/MakeOverMonday44.html)
 
 
-[Visualizaciones Tableau extra](https://mdanielaraffom.github.io/infovis/s2/MakeOverMonday44-bis.html)
+[Visualizations Tableau extra](https://mdanielaraffom.github.io/infovis/s2/MakeOverMonday44-bis.html)
 
 
-[Visualizaciones Flourish](https://mdanielaraffom.github.io/infovis/s2/MakeOverMonday44-Flourish.html)
+[Visualizations Flourish](https://mdanielaraffom.github.io/infovis/s2/MakeOverMonday44-Flourish.html)
