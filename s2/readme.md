@@ -2,7 +2,7 @@ Visualization- Week2
 
 Make over Monday 44- [Source](https://www.opensecrets.org/members-of-congress/members-list)
 
-<h1> Members of Congress 117th - ¿Who raised more? ¿Who spent more?
+<h1> Members of Congress 117th - ¿Who raised more? ¿Who spent more?</h1>
   
 [Visualizations Tableau](https://mdanielaraffom.github.io/infovis/s2/MakeOverMonday44.html)
 
