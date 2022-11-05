@@ -1,2 +1,3 @@
 # infovis
-Visualizations - DataScience - ITBA
+
+<h1> Visualizations - DataScience - ITBA
