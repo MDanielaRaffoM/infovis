@@ -10,4 +10,4 @@
 
 <h4> Databse: COVID-19 </h4>
 
-[tableau - dashboard] (https://mdanielaraffom.github.io/infovis/s3/covid19Arg.html)
+[tableau - dashboard](https://mdanielaraffom.github.io/infovis/s3/covid19Arg.html)
