@@ -4,4 +4,4 @@
 
 [Tableau - Bubbles](https://mdanielaraffom.github.io/infovis/DP/bubbles.html)
 
-[Tableau- history](https://github.com/MDanielaRaffoM/infovis/blob/main/DP/historia.html) 
+[Tableau- history](https://MDanielaRaffoM.github.io/infovis/DP/historia.html)
