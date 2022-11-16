@@ -2,7 +2,7 @@
 
 [Histogram Age](https://mdanielaraffom.github.io/infovis/VastChallenge/vast.age.html)
 
-[Horizontal histogram Education level]
+[Horizontal histogram Education level](https://mdanielaraffom.github.io/infovis/VastChallenge/barchar-EducationLevel.html)
 
 [Map of locations p/ rental cost]
 
