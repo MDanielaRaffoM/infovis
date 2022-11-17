@@ -4,8 +4,12 @@
 
 [Horizontal histogram Education level](https://mdanielaraffom.github.io/infovis/VastChallenge/barchar-EducationLevel.html)
 
-[Map of locations p/ rental cost]
+[Map of locations p/ rental cost](https://mdanielaraffom.github.io/infovis/VastChallenge/location-rentalcost.html)
 
-[Rental cost p/ Education Level]
+[Rental cost p/ Education Level](https://mdanielaraffom.github.io/infovis/VastChallenge/Rentalcost-Education.html)
 
-[In which they spent their time- Area chart]
+[In which they spent their time- Area chart](https://mdanielaraffom.github.io/infovis/VastChallenge/timespent.html)
+
+[Joviality p/ Interactions](https://mdanielaraffom.github.io/infovis/VastChallenge/joviality-interactions.html)
+
+[Joviality p/ time spent in recreational time](https://mdanielaraffom.github.io/infovis/VastChallenge/joviality-recreationaltime.html)
