@@ -1,6 +1,6 @@
 <h1> Trabajo Datos Personales </h1>
 
-[Tableau- history](https://MDanielaRaffoM.github.io/infovis/DP/historia.html)
+[Tableau- Heat Map](https://MDanielaRaffoM.github.io/infovis/DP/historia.html)
 
 [Tableau - Bubbles](https://mdanielaraffom.github.io/infovis/DP/bubbles.html)
 
