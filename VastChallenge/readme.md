@@ -11,5 +11,3 @@
 [In which they spent their time- Area chart](https://mdanielaraffom.github.io/infovis/VastChallenge/timespent.html)
 
 [Joviality p/ Interactions](https://mdanielaraffom.github.io/infovis/VastChallenge/joviality-interactions.html)
-
-[Joviality p/ time spent in recreational time](https://mdanielaraffom.github.io/infovis/VastChallenge/joviality-recreationaltime.html)
