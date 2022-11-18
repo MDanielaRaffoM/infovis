@@ -6,8 +6,6 @@
 
 [Map of locations p/ rental cost](https://mdanielaraffom.github.io/infovis/VastChallenge/location-rentalcost.html)
 
-[Map p/ type of building](https://mdanielaraffom.github.io/infovis/VastChallenge/typeofbuilding.html)
-
 [Rental cost p/ Education Level](https://mdanielaraffom.github.io/infovis/VastChallenge/Rentalcost-Education.html)
 
 [In which they spent their time- Area chart](https://mdanielaraffom.github.io/infovis/VastChallenge/timespent.html)
