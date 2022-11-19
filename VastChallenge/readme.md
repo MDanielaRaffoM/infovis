@@ -6,7 +6,7 @@
 
 [Horizontal histogram Education level](https://mdanielaraffom.github.io/infovis/VastChallenge/barchar-EducationLevel.html)
 
-<h3>Demografic Analysis</h3>
+<h3>Demographics Analysis</h3>
 
 [Joviality p/ Interactions + Joviality p/ time spent in recreational activities](https://mdanielaraffom.github.io/infovis/VastChallenge/joviality-interactions.html)
 
