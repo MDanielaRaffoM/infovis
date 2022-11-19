@@ -6,9 +6,13 @@
 
 [Horizontal histogram Education level](https://mdanielaraffom.github.io/infovis/VastChallenge/barchar-EducationLevel.html)
 
-<h3>Demographics Analysis</h3>
+<h3>Demographics Analysis + Patterns of life</h3>
 
 [Joviality p/ Interactions + Joviality p/ time spent in recreational activities](https://mdanielaraffom.github.io/infovis/VastChallenge/joviality-interactions.html)
+
+<h3>Patterns of life Analysis- How they spent their time?</h3>
+
+[How they spent their time?- Area chart](https://mdanielaraffom.github.io/infovis/VastChallenge/timespent.html)
 
 <h3>Locations analysis and types of business</h3>
 
@@ -18,7 +22,5 @@
 
 [Rental cost p/ Education Level](https://mdanielaraffom.github.io/infovis/VastChallenge/Rentalcost-Education.html)
 
-<h3>Patterns of life Analysis</h3>
 
-[How they spent their time?- Area chart](https://mdanielaraffom.github.io/infovis/VastChallenge/timespent.html)
 
