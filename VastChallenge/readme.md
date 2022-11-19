@@ -1,6 +1,6 @@
 <h1> Vast Challenge 2022 </h1>
 
-<h3>Exploratoty Analysis- Demografics</h3>
+<h3>Exploratoty Analysis- Demographics</h3>
 
 [Histogram Age](https://mdanielaraffom.github.io/infovis/VastChallenge/vast.age.html)
 
@@ -14,7 +14,7 @@
 
 [How they spent their time?- Area chart](https://mdanielaraffom.github.io/infovis/VastChallenge/timespent.html)
 
-<h3>Locations analysis and types of business</h3>
+<h3>Economic Analysis- Locations analysis and types of business</h3>
 
 [Map of locations p/ rental cost + Map of locations p/ type of building](https://mdanielaraffom.github.io/infovis/VastChallenge/location-rentalcost.html)
 
